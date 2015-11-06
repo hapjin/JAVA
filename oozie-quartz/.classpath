@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-client-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-core-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-hadoop-2.6.0-cdh5.4.5.oozie-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-hadoop-distcp-2.6.0-cdh5.4.5.oozie-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-hadoop-utils-2.6.0-cdh5.4.5.oozie-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-hadoop-utils-2.6.0-mr1-cdh5.4.5.oozie-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-hbase-1.0.0-cdh5.4.5.oozie-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/oozie-tools-4.1.0-cdh5.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/quartz-2.2.2.jar" sourcepath="D:/programFile/quartz-2.2.2/src"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/quartz-jobs-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/oozie-quartz/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
